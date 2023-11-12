@@ -89,6 +89,7 @@ for(char,frequency) in freq:
 
 
 ```
+```
 ## Output:
 
 ### Print the characters and its huffmancode
